@@ -173,5 +173,5 @@ if(contador_errores != 3):
 
 
 else:
-	print('Cuenta bloqueada!')
+	print('Cuenta bloqueada bloqueada!')
 
